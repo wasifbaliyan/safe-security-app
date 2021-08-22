@@ -1,0 +1,18 @@
+.game-header {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid #ccc;
+  font-weight: bold;
+}
+
+.header-column {
+  width: 100px;
+  padding: 10px;
+}
+.header-name {
+  width: 200px;
+}
+
+.header-year {
+  width: 200px;
+}

@@ -1,0 +1,20 @@
+.game {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid #ccc;
+}
+
+.column {
+  width: 100px;
+  padding: 10px;
+}
+.name {
+  width: 200px;
+}
+.year {
+  width: 200px;
+}
+
+.edit-button {
+  margin-left: 0.4rem;
+}
